@@ -1,10 +1,10 @@
 # Code of Conduct
 
-Science is hard, and the work of making sure science isn't harder than it needs to be is on all of us. We create our culture, and in the Bahlai lab, our culture is inclusive.
+Science is hard, and the work of making sure science isn't harder than it needs to be is on all of us. We create our culture, and in the Goldsmiths nfantlab our culture is inclusive.
 
-We value the participation of every member of our community and want to ensure an that every lab member and collaborator has a positive, educational experience unhindered by unneccesary challenges caused by non-inclusive behavior. Accordingly, everyone who participates in any Bahlai Lab project is expected to show respect and courtesy to other community members at all times.
+We value the participation of every member of our community and want to ensure an that every lab member and collaborator has a positive, educational experience unhindered by unneccesary challenges caused by non-inclusive behavior. Accordingly, everyone who participates in any InfantLab project is expected to show respect and courtesy to other community members at all times.
 
-Christie Bahlai, as head of the Bahlai Lab, and all lab members, are dedicated to a ***harassment and discrimination-free experience for everyone.*** Discrimination or harassment based on racial or ethnic background, citizenship status, religion (or lack thereof), political affiliation, gender identity/expression, sexual orientation, dis/ability status, appearance or body size will not be tolerated.  **We do not tolerate harassment or discrimination by and/or of members of our community in any form**. 
+Caspar Addyman, as head of the InfantLab, and all lab members, are dedicated to a ***harassment and discrimination-free experience for everyone.*** Discrimination or harassment based on racial or ethnic background, citizenship status, religion (or lack thereof), political affiliation, gender identity/expression, sexual orientation, dis/ability status, appearance or body size will not be tolerated.  **We do not tolerate harassment or discrimination by and/or of members of our community in any form**. 
 
 We are particularly motivated to support new and/or anxious collaborators, people who are looking to learn and develop their skills, and anyone who has experienced discrimination in the past. 
 
@@ -26,13 +26,29 @@ Unacceptable behavior includes offensive verbal comments related to gender, sexu
 
 ***Participants asked to stop any harassing or discriminatory behavior are expected to comply immediately.***
 
-Members of the community who violate these rules - no matter how much they have contributed to the Bahlai lab, or how specialised their skill set - will be approached by Christie Bahlai. If inappropriate behaviour persists after a discussion with Christie, the issue will be escalated according to procedures laid out by the relevant entities in Kent State's [Division of Diversity, Equity & Inclusion](https://www.kent.edu/diversity/support-services-students-staff-and-faculty)
+Members of the community who violate these rules - no matter how much they have contributed to the InfantLab, or how specialised their skill set - will be approached by Caspar Addyman. If inappropriate behaviour persists after a discussion with Caspar, the issue will be escalated according to procedures laid out by the relevant parts of Goldsmiths policies on [harassment and misconduct](https://www.gold.ac.uk/governance/policies/sexual-violence-harassment-misconduct-policy/)
 
-**To report an issue** please contact [Christie Bahlai](https://github.com/cbahlai). All communication will be treated as confidential.
+**To report an issue** please contact [Caspar Addyman](https://github.com/YourBrain). All communication will be treated as confidential.
+
+### Working with parents and children
+
+The InfantLab depends on parent and young children volunteering their time to take part in our studies. We value and recognise their contribution and will make every effort to ensure that they understand the purpose of our research and their role in it. 
+Anonymity and the right to withdraw from participation will always be respected .Information will be held securely and in confidence. This means we will only tell those who have a need or right to know. 
+
+We follow the Goldsmiths [Safeguarding Policy](https://www.gold.ac.uk/governance/policies/safeguarding-policy/).
+
+***All lab members working unsupervised with families will have up-to-date DBM checks.***  
+
+
+### Professional standards
+
+We support and comply with the American Psychological Associations [Ethical Principles of psychologists and code of conduct](https://www.apa.org/ethics/code/principles.pdf)
+We support and comply with all the stated [policies of Goldsmiths, University of London](https://www.gold.ac.uk/governance/policies/). 
+In particular, have reviewed all our lab practices to comply with Europe's new General Data Protection Regulations [GDPR](https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr)
 
 ### Flexible working hours
 
-This sentence is stolen from [Bastian Greshake's](https://github.com/gedankenstuecke) email footer and forms the basis of the Bahlai Lab's policy on flexible working:
+This sentence is stolen from [Bastian Greshake's](https://github.com/gedankenstuecke) email footer and forms the basis of our policy on flexible working:
 
 > While I may be sending this email outside my normal office hours, I have no expectation to receive a reply outside yours.
 
@@ -40,6 +56,8 @@ The hours that members of the lab choose to work is up to them. We are each welc
 
 Lab members are welcome to work flexibly for any reason. All lab members will have at least a few hours each week of designated interaction time with Christie in order to stay in touch on any challenges or successes, but it is the policy of the Bahlai Lab that every member is already self-motivated and may choose to deviate from a traditional 9 to 5 day in order to meet our collective goals.
 
-**If you experience any challenges related to flexible working within the lab** please contact [Christie Bahlai](https://github.com/cbahlai). All communication will be treated as confidential.
+**If you experience any challenges related to flexible working within the lab** please contact [Caspar Addyman](https://github.com/yourbrain). All communication will be treated as confidential.
 
-> The material in this code of conduct is derived from "[Whitaker Lab Project Management](https://github.com/WhitakerLab/WhitakerLabProjectManagement)" by Dr. Kirstie Whitaker and the Whitaker Lab team, used under CC BY 4.0. Bahlai Lab Code of conduct is licensed under CC BY 4.0 by Dr. Christie Bahlai
+> These principles and documents were adapted and adopted from the orignals created by Christie Bahlai https://github.com/BahlaiLab/Policies, which in turn was derived from "[Whitaker Lab Project Management](https://github.com/WhitakerLab/WhitakerLabProjectManagement)" by Dr. Kirstie Whitaker and the Whitaker Lab team, used under CC BY 4.0. 
+> Goldsmiths Infant Lab Code of conduct is licensed under CC BY 4.0 by Dr. Caspar Addyman
+
