@@ -1,7 +1,11 @@
 # General Lab Policies and Guidelines
-Welcome to the [Bahlai Lab of Applied Quantitative Ecology](https://bahlailab.org/)! I'm very excited that you're here. In this lab, we study a variety of habitats, taxa and processes, with the core elements of using data, math and computational techniques to gain better understanding of ecological systems. We're committed to applying what we learn to making the world a better place- by supporting sustainability and productivity in working ecosystems, by making the work we do accessible to the broader community, and by drawing in diverse viewpoints to enhance mutual understanding of science, scientists, and the needs of the world.  
+
+***Currently under revision***
+
+Welcome to the [Goldsmiths InfantLab](https://sites/)! I'm very excited that you're here. In this lab, we study the cognitive, social and emotional development of infants. We're committed to applying what we learn to making the world a better place- , by making the work we do accessible to the broader community, and by drawing in diverse viewpoints to enhance mutual understanding of science, scientists, and the needs of the world.  
+
 ## Open philosophy
-First and foremost, the Bahlai Lab is an [open science](https://en.wikipedia.org/wiki/Open_science) lab. There are several major facets to this, but the core is: *the way this lab operates is grounded in my personal belief that participation in science is a public act, and done in the public good.* Science allows us to be part of something bigger, and to foster a healthy, collaborative and truly inclusive scientific enterprise, it's essential that we give back at least as much as we take from the community. I could get down into the weeds about specific tools and techniques that we use in our open science infrastructure here, but those tools are used to support these values, [they themselves are not the values](http://www.datacarpentry.org/blog/soft-skills/). What we commit to do, as open scientists, is:
+First and foremost, the InfantLab is an [open science](https://en.wikipedia.org/wiki/Open_science) lab. There are several major facets to this, but the core is: *the way this lab operates is grounded in my personal belief that participation in science is a public act, and done in the public good.* Science allows us to be part of something bigger, and to foster a healthy, collaborative and truly inclusive scientific enterprise, it's essential that we give back at least as much as we take from the community. I could get down into the weeds about specific tools and techniques that we use in our open science infrastructure here, but those tools are used to support these values, [they themselves are not the values](http://www.datacarpentry.org/blog/soft-skills/). What we commit to do, as open scientists, is:
 
 * Make supporting research data freely available whenever possible, to support future use in meta-analyses, reviews, and revisitations of our work. 
 
@@ -27,11 +31,18 @@ I believe that the role of a mentor is that of a guide and a support for you as 
 I also believe that the mentor-mentee relationship is reciprocal-you have experiences, skills and ideas that I do not, please share them! You have been selected for this lab not just because of your passions and eagerness for learning, but also because I believe you can bring your unique perspective to problems. I look forward to learning from you.
 
 I believe that science is better when it's diverse and inclusive, and that means removing barriers and meeting people where they are, whenever possible. If you want to work in the Bahlai Lab, or are currently working here and facing a barrier affecting your ability to do work and contribute to your fullest extent, please let me know (in as specific or nonspecific terms as you are comfortable) so we can work together with campus resources and build necessary accomodations. 
+
+## Undergrad student expectations. 
+
+coming soon.. 
+
 ## Grad student expectations
+***This section yet to be updated from the original***
+
 The expectations of graduate students enrolled in our MS and PhD programs in the [Kent State University Department of Biological Sciences](https://www.kent.edu/biology) are outlined in our [graduate student handbook](https://du1ux2871uqvu.cloudfront.net/sites/default/files/file/BSCI%20Grad%20Handbook%202017.pdf). The back of this guide contains links to specific forms, including a checklist of degree completion requirements for both the MS and PhD programs. We will use this as a template for your individual expectations within the lab.
 
 I pledge to you that I will consider your goals and path when establishing your expectations for your program. Although peer reviewed papers are largely the currency of 'success' in the dominant academic scientific paradigm, I understand and value that they are not the only measure of progress, growth and accomplishment in your development as a scientist. I will meet with each graduate student on a regular basis to discuss goals, directions and progress. Early in your program, we will establish a private repository where we will outline our shared expectations and goals for your graduate program, including timelines and deliverables, and write a [Mentoring Plan](https://dynamicecology.wordpress.com/2017/01/09/mentoring-plans-a-really-useful-tool-for-pis-and-their-lab-members/). This repository can also be used to store documents and other relevant paperwork for your program. There will be core elements for all students, but what I'm really hoping to get here is your personal definition of success, and a defined path for getting there. This may evolve over the course of your program, but the idea is to keep you working with intention, while providing me with a clear outline of how I can best support your efforts.
 
 
 
-
+These were adapted and adopted from the orignals created by Christie Bahlai https://github.com/BahlaiLab/Policies
