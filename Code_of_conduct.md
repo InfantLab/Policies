@@ -37,7 +37,7 @@ Anonymity and the right to withdraw from participation will always be respected 
 
 We follow the Goldsmiths [Safeguarding Policy](https://www.gold.ac.uk/governance/policies/safeguarding-policy/).
 
-***All lab members working unsupervised with families will have up-to-date DBM checks.***  
+***All lab members working unsupervised with families will have up-to-date [DBS checks](https://www.gov.uk/dbs-check-applicant-criminal-record).***  
 
 
 ### Professional standards
