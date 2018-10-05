@@ -1,5 +1,7 @@
 ## Consultation and meeting policies
 
+*** needs updating - CA 5 Oct 2018***
+
 I'm happy to help members of my community work through their statistical, data and coding problems! That said, I get *a lot* of requests for help, and so I've adopted a system to help prevent over-booking, to manage how my work in this area is credited in my effort reporting and personal accomplishments, and to protect a bit of my time for my own research. 
 
 First, if your question is for a class, particularly if your question involves work you will be graded on, please consult with your instructor regarding their policies on external consults. Otherwise:
