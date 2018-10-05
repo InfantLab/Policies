@@ -2,7 +2,17 @@
 
 This repo contains a collection of policies, standard procedures and guidelines we adhere to in the Goldsmiths [InfantLab](http://sites.gold.ac.uk/infantlab). These documents are intended to help lab members get aquainted with the culture of the lab, and to help collaborators and colleagues see how we do things.
 
-Once there's more content, I'll put a table of contents here, linking to the relevant documents.
+The two important documents are 
+* [Code of Conduct](https://github.com/InfantLab/Policies/blob/master/Code_of_conduct.md)
+* [General Guidelines](https://github.com/InfantLab/Policies/blob/master/General_Guidelines.md) - note this is still being adapted.
+
+Other guides you will find here eventually, 
+* [Consulting and meetings policy](https://github.com/InfantLab/Policies/blob/master/Consulting.md)
+
+Thank you,
+Dr Caspar Addyman
+<c.addyman@gold.ac.uk>
+
 
 ## Legal stuff
 
