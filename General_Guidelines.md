@@ -30,14 +30,14 @@ I believe that the role of a mentor is that of a guide and a support for you as 
 
 I also believe that the mentor-mentee relationship is reciprocal-you have experiences, skills and ideas that I do not, please share them! You have been selected for this lab not just because of your passions and eagerness for learning, but also because I believe you can bring your unique perspective to problems. I look forward to learning from you.
 
-I believe that science is better when it's diverse and inclusive, and that means removing barriers and meeting people where they are, whenever possible. If you want to work in the Bahlai Lab, or are currently working here and facing a barrier affecting your ability to do work and contribute to your fullest extent, please let me know (in as specific or nonspecific terms as you are comfortable) so we can work together with campus resources and build necessary accomodations. 
+I believe that science is better when it's diverse and inclusive, and that means removing barriers and meeting people where they are, whenever possible. If you want to work in the InfantLab, or are currently working here and facing a barrier affecting your ability to do work and contribute to your fullest extent, please let me know (in as specific or nonspecific terms as you are comfortable) so we can work together with campus resources and build necessary accomodations. 
 
 ## Undergrad student expectations. 
 
 coming soon.. 
 
 ## Grad student expectations
-***This section yet to be updated from the original***
+***NOTE: This section has yet to be updated from the original source - Caspar, Oct 2018***
 
 The expectations of graduate students enrolled in our MS and PhD programs in the [Kent State University Department of Biological Sciences](https://www.kent.edu/biology) are outlined in our [graduate student handbook](https://du1ux2871uqvu.cloudfront.net/sites/default/files/file/BSCI%20Grad%20Handbook%202017.pdf). The back of this guide contains links to specific forms, including a checklist of degree completion requirements for both the MS and PhD programs. We will use this as a template for your individual expectations within the lab.
 
