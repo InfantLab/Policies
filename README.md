@@ -13,7 +13,6 @@ Thank you,
 Dr Caspar Addyman
 <c.addyman@gold.ac.uk>
 
-
 ## Legal stuff
 
 ![Public domain](http://i.creativecommons.org/p/zero/1.0/88x31.png)
