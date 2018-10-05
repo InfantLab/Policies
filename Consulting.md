@@ -13,4 +13,4 @@ For problems where I am required to make a substantial intellectual contribution
 
 If you would like to book a meeting with me, you can use this interface which automatically places the meeting in my schedule:
 
-[![alt text](https://youcanbook.me/resources/pics/book-button.png "book me?")](https://null.youcanbook.me/)
+[![alt text](https://youcanbook.me/resources/pics/book-button.png "book me?")](https://caddyman.youcanbook.me/)
