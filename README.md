@@ -1,6 +1,6 @@
 # Policies
 
-This repo contains a collection of policies, standard procedures and guidelines we adhere to in the Goldsmiths [InfantLab](http://sites.gold.ac.uk/infantlab). These documents are intended to help lab members get aquainted with the culture of the lab, and to help collaborators and colleagues see how we do things.
+This folder contains a collection of policies, standard procedures and guidelines we adhere to in the Goldsmiths [InfantLab](http://sites.gold.ac.uk/infantlab). These documents are intended to help lab members get aquainted with the culture of the lab, and to help collaborators and colleagues see how we do things.
 
 The two important documents are 
 * [Code of Conduct](https://github.com/InfantLab/Policies/blob/master/Code_of_conduct.md)
