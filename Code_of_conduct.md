@@ -1,6 +1,6 @@
 # Code of Conduct
 
-Science is hard, and the work of making sure science isn't harder than it needs to be is on all of us. We create our culture, and in the Goldsmiths nfantlab our culture is inclusive.
+Science is hard, and the work of making sure science isn't harder than it needs to be is on all of us. We create our culture, and in the [Goldsmiths Infantlab](https://sites.gold.ac.uk/infantlab/) our culture is inclusive.
 
 We value the participation of every member of our community and want to ensure an that every lab member and collaborator has a positive, educational experience unhindered by unneccesary challenges caused by non-inclusive behavior. Accordingly, everyone who participates in any InfantLab project is expected to show respect and courtesy to other community members at all times.
 
@@ -42,9 +42,10 @@ We follow the Goldsmiths [Safeguarding Policy](https://www.gold.ac.uk/governance
 
 ### Professional standards
 
-We support and comply with the American Psychological Associations [Ethical Principles of psychologists and code of conduct](https://www.apa.org/ethics/code/principles.pdf)
-We support and comply with all the stated [policies of Goldsmiths, University of London](https://www.gold.ac.uk/governance/policies/). 
-In particular, have reviewed all our lab practices to comply with Europe's new General Data Protection Regulations [GDPR](https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr)
+We support and comply with the American Psychological Associations [Ethical Principles of psychologists and code of conduct](https://www.apa.org/ethics/code/principles.pdf). We support and comply with all the stated [policies of Goldsmiths, University of London](https://www.gold.ac.uk/governance/policies/).  
+
+
+In addition, we have reviewed all our lab practices to comply with Europe's new General Data Protection Regulations [GDPR](https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr)
 
 ### Flexible working hours
 
